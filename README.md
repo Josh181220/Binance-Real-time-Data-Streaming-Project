@@ -9,10 +9,15 @@ This Jupyter notebook contains all the Python code used for data extraction, tra
 This PDF is a detailed presentation that walks through the entire end-to-end process of the data pipeline, from data sourcing to final analysis. It explains each stage, including:
 
 Source: Real-time data extraction from the Binance website. 🌐
+
 Ingestion: Data ingestion process using Apache NiFi. ⚙️
+
 Storage: Data stored in Hadoop clusters. 🏦
+
 Processing: Data processing steps for analysis. 🧠📊
+
 Serving: Preparing processed data for visualization and further analysis. 📊🔍
+
 This document is your complete guide to understanding the project workflow from start to finish!
 
 
